@@ -1,0 +1,10 @@
+.container{
+    border-radius: 20px;
+    background-color: darksalmon;
+    font-size: 18px;
+}
+
+#heading{
+    float: top;
+    width: 100%;
+}
